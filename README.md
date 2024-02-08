@@ -1,6 +1,7 @@
 ### Olá! Eu sou o João Vitor Maia 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-300128272/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.vit.maiaoliv@gmail.com)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitMaia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitMaia)](https://github.com/anuraghazra/github-readme-stats)
